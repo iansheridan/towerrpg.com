@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Tower RPG is a system based souly on a D6. with a simplifiyed combat system that allows for quick but deadly combat.
-
       <div
         class="jumbotron"
         style="
@@ -21,3 +19,5 @@ Tower RPG is a system based souly on a D6. with a simplifiyed combat system that
           >
         </p>
       </div>
+
+Tower RPG is a system based souly on a D6. with a simplifiyed combat system that allows for quick but deadly combat.
