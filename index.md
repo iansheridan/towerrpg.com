@@ -2,11 +2,7 @@
 layout: default
 ---
 
-      <div
-        class="jumbotron"
-        style="
-          background-image: url(/images/hl_background_world_map_black_tower.jpg);
-        "
+      <div  class="jumbotron" style="background-image: url(/images/hl_background_world_map_black_tower.jpg);"
       >
         <h1>Tower RPG Kickstarter</h1>
         <p class="lead">
@@ -14,9 +10,7 @@ layout: default
           about our Kickstarter.
         </p>
         <p>
-          <a class="btn btn-lg btn-success" href="#" role="button"
-            >Sign up to get early access</a
-          >
+          <a class="btn btn-lg btn-success" href="#" role="button">Sign up to get early access</a>
         </p>
       </div>
 
