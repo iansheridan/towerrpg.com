@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Tower RPG
 
 #home #wip
@@ -11,4 +15,3 @@
 - Why did I make TowerRPG?
   - I wanted to make combat easy to play but hard to master.
 - What is in this book.
-
