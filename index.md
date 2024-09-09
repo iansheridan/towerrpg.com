@@ -20,4 +20,4 @@ layout: default
 
 Tower RPG is a system based on the D6. It has a simplified combat system that allows for quick but deadly combat.
 
-[Rulebook/rulebook]:
+[Rulebook/rulebook]
