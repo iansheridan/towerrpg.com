@@ -1,10 +1,22 @@
 # Skills
 
- ## List of Templates 
-```dataview
-LIST
-WHERE file.folder = this.file.folder AND file.name != this.file.name
-SORT Folder ASC
-```
-
-
+[[Bow]]
+[[Dagger]]
+[[Exersize]]
+[[History]]
+[[Kit Maintenance]]
+[[Longsword]]
+[[Lore, Air Element]]
+[[Magic]]
+[[Magic, air]]
+[[Magical attack]]
+[[Mathamatics]]
+[[Riding]]
+[[Shortsword]]
+[[Singing]]
+[[Stealth]]
+[[Sword]]
+[[cooking]]
+[[lore, Medicine]]
+[[survival]]
+[[two-handedsword]]
