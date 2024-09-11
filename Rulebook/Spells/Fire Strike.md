@@ -1,8 +1,11 @@
 ---
-aliases: fire bolt. fire strike
+  layout: default
+  aliases: fire bolt. fire strike
 ---
+
 # spell, fire bolt
 
-#spell 
+#spell
 
 this spell fires a [[Fire Strike|fire bolt]] at the target doing fire damage. One bolt for one [[mp]].
+

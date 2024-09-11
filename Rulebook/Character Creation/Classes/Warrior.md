@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # `=this.file.name`
 
  The classic fighter that;

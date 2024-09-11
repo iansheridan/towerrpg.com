@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Dagger
 
 #skill #weapon #versatile

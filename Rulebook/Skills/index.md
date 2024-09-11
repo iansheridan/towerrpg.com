@@ -1,13 +1,17 @@
+---
+layout: default
+---
+
 # Skills
 
-[[Bow]]
-[[Dagger]]
-[[Exersize]]
-[[History]]
-[[Kit Maintenance]]
-[[Longsword]]
-[[Lore, Air Element]]
-[[Magic]]
+[Bow](Bow)
+[Dagger](Dagger)
+[Exersize](Exersize)
+[History](History)
+[Kit Maintenance]()
+[Longsword](Longsword)
+[Lore, Air Element]()
+[Magic](Magic)
 [[Magic, air]]
 [[Magical attack]]
 [[Mathamatics]]

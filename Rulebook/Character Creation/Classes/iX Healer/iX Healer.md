@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # iX Healer
 
 #character-template #patternmage 

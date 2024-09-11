@@ -1,3 +1,8 @@
-# Earth Strike 
+---
+layout: default
+---
 
-#spell #wip 
+# Earth Strike
+
+#spell #wip
+

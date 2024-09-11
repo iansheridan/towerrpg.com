@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # `=this.file.name`
 
 #character-template 

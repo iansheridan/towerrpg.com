@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Character Creation
 #rules #wip 
 

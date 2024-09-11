@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Imbue Weapon
 #rule #power #exclusive #wip 
 

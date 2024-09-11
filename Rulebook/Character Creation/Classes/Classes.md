@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 ---
 aliases: path, classes
 <<<<<<< Updated upstream

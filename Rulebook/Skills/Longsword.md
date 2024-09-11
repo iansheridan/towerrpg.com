@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Longsword
 
 #skill #weapon #wip 

@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Sword
 
 The basics of handling a sword.

@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Character Backgrounds
 #rules #background  #wip #character-creation
 

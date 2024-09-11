@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Human
 #rule #race #wip 
 

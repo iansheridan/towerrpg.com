@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 ---
 aliases: cp, cps
 <<<<<<< Updated upstream

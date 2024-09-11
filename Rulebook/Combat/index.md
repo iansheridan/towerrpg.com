@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 ---
 banner: Assets/026DAB71-5085-4C3C-9CAD-8B34E70AD79B.jpeg
 sticker: 1f4da

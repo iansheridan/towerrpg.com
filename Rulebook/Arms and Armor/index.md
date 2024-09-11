@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Arms and Armor
 #rule #equipment 
 ## Arms

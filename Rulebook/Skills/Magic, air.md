@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Magic, Air
 #rules #skill 
 

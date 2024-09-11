@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 ---
 aliases: mp, mps, Mortality Points
 sticker: 1f605

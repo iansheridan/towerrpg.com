@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Steps of combat
 #rules 
 

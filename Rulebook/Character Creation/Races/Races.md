@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 ---
 aliases: race
 <<<<<<< Updated upstream

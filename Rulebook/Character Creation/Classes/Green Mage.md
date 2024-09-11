@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 ---
 aliases: Priest, Healer, Medic
 ---

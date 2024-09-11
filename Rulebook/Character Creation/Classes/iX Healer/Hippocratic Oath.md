@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # `=this.file.name`
 
 I swear to fulfill, to the best of my ability and judgment, this covenant:

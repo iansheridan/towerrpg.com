@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Street Urchin
 #rules #background #wip 
 

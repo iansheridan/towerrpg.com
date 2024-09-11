@@ -1,6 +1,9 @@
+---
+layout: default
+---
+
 # Air Spike
 
-#spell 
+#spell
 
 ## lore
-

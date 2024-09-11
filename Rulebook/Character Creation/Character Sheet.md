@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Character Sheet 
 
 ![[TowerRPG character sheet.pdf]]

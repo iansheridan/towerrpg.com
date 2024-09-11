@@ -1,13 +1,15 @@
 ---
-aliases: Medicine
+  layout: default
+  aliases: Medicine
 ---
+
 # lore, Medicine
 
-#skills #base-skill  #wip
+#skills #base-skill #wip
 
- the science or practice of the diagnosis, treatment, and prevention of disease.
+The science or practice of the diagnosis, treatment, and prevention of disease.
 
-you are able to heal 25% of a lost [[mp]] in another player. Ranks affect the percentage.
+You are able to heal 25% of a lost [[mp]] in another player. Ranks affect the percentage.
 
 | Rank | ability                         |
 | ---- | ------------------------------- |
@@ -16,5 +18,4 @@ you are able to heal 25% of a lost [[mp]] in another player. Ranks affect the pe
 | 3    | Heal 1 [[mo]] per round         |
 | 4    | repair permamant body affects   |
 | 5    | #todo                           |
-| 6    | #todo                                 |
-
+| 6    | #todo                           |

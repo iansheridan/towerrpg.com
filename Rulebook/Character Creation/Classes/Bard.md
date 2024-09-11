@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Bard
 #rule #path
 

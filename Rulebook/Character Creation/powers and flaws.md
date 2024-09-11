@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Powers and Flaws
 
 - power; flight

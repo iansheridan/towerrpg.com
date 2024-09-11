@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # the ship scrying ward
 
  #ritual #campaign-journey

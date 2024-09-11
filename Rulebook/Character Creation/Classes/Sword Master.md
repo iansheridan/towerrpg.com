@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 # Sword Master
 #class #character-template #teirtwo
 

@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 ---
 banner: "https://www.historyadventures.co/wp-content/uploads/2020/05/best-history-books-of-all-time-history-adventures.jpg"
 ---

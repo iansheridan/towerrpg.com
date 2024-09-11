@@ -1,5 +1,6 @@
 ---
-sticker: 1f7e2
+  layout: default
+  sticker: 1f7e2
 ---
 
 # Rulebook

@@ -1,9 +1,9 @@
 ---
-id: Take Action
-aliases:
-  - Action, Contested Actions
-tags: []
-layout: default
+  layout: default
+  id: Take Action
+  aliases:
+    - Action, Contested Actions
+  tags: []
 ---
 
 # Take Action

@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 ---
 note: not sure I will keep this skil.
 ---

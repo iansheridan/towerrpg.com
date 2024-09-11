@@ -1,3 +1,7 @@
+"---
+  layout: default
+---
+"
 ---
 aliases: Contract Mage, Warlock, Avatar
 ---
