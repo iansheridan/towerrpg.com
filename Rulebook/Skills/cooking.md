@@ -1,10 +1,7 @@
-"---
-  layout: default
 ---
-"
+layout: default
+---
+
 # Cooking
 
-#skill 
-
-
-
+#skill

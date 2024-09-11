@@ -12,15 +12,15 @@ layout: default
 [Longsword](Longsword)
 [Lore, Air Element]()
 [Magic](Magic)
-[[Magic, air]]
-[[Magical attack]]
-[[Mathamatics]]
-[[Riding]]
-[[Shortsword]]
-[[Singing]]
-[[Stealth]]
-[[Sword]]
-[[cooking]]
-[[lore, Medicine]]
-[[survival]]
-[[two-handedsword]]
+[Magic, air]()
+[Magical attack]()
+[Mathamatics]()
+[Riding]()
+[Shortsword]()
+[Singing]()
+[Stealth]()
+[Sword]()
+[cooking]()
+[lore, Medicine]()
+[survival]()
+[two-handedsword]()

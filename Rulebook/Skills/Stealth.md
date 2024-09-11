@@ -1,7 +1,8 @@
-"---
-  layout: default
 ---
-"
+layout: default
+---
+
 # Stealth
 
-#skill 
+#skill
+
